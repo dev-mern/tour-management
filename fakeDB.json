@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Swumming to Sea",
+        "location":"Amazon",
+        "description":"lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum ",
+        "price": 1000,
+        "country":"bangladesh"
+    },
+    {
+        "name":"Walking to Forest - international",
+        "location":"Kuno",
+        "description":"lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum lorem imsum ",
+        "price": 3000,
+        "country":"India"
+    },
+]
